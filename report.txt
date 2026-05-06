@@ -1,0 +1,10 @@
+=== TEST REPORT ===
+Result: FAIL
+
+Errors: 2
+- ERROR: Temperature too high
+- ERROR: Sensor failure
+
+Warnings: 1
+
+Values over threshold: [82]

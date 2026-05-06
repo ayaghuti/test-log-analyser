@@ -1,0 +1,7 @@
+INFO: System started
+INFO: Value=45
+WARNING: Voltage low
+INFO: Value=82
+ERROR: Temperature too high
+INFO: Value=60
+ERROR: Sensor failure
